@@ -4,7 +4,7 @@ typolice is a tool to find typos in text.
 
 ## Installation
 ```bash
-$ go install github.com/tetzng/typolice/cmd/typolice
+$ go install github.com/tetzng/typolice/cmd/typolice@latest
 ```
 
 ## Usage
